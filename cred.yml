@@ -1,6 +1,6 @@
 Access_token:  #it will be auto picked
-Account_ID: Your account id 
-Secret_Code: Your secret_Code  
-UID: Your account id 
+Account_ID: FA6549 
+Secret_Code: D54aK2pmPDi54Ppn34NBpEkO8FMHRRRMrX0ZzlB5fk02rmnFp030Gn0Z6kKagG6r  
+UID: FA6549 
 client_id: Your Client_id 
 oauth_url: https://api.shoonya.com/OAuthlogin/authorize/oauth
